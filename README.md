@@ -1,10 +1,7 @@
 ### Hi there 👋, I'm Sabitri Poudel!
 
 🌍 **Based in**: Portland, OR  
-🔧 **What I Do**: I’m a seasoned Data Engineer with a robust background in designing and implementing scalable data solutions across healthcare, telecom, and IoT sectors.  
 🎓 **Education**: Masters in Computer Engineering from Chosun University
-
-🔍 **Currently**: Data Engineer at UnitedHealthcare, focusing on leveraging AWS services to build enterprise data lakes, develop robust ETL pipelines, and enable real-time data processing.
 
 ### 🛠️ Technologies I work with:
 - **Programming Languages**: Python, Java, Scala, SQL
@@ -17,9 +14,7 @@
 - **Cloud Platforms**: AWS, Google Cloud Platform (GCP), Microsoft Azure
 - **Data Visualization**: Tableau, Power BI, Looker
 
-### 🚀 Projects I’m proud of:
-- **Healthcare Data Pipeline for Predictive Analytics** (UnitedHealthcare): Architected a data pipeline using Apache Flink and AWS Kinesis to process real-time healthcare data streams for predictive analytics in patient outcomes.
-- **Real-Time Customer Data Streaming Platform** (T-Mobile): Developed a scalable real-time data streaming platform with Apache Kafka and Spark Streaming, processing over 10 million customer interactions daily.
+#
 
 ### 📫 How to reach me:
 - **Email**: [sabitrip513@gmail.com](mailto:sabitrip513@gmail.com)
