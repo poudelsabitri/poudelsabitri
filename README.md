@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Sabitri Poudel!
 
 🌍 **Based in**: Portland, OR  
-🎓 **Education**: Masters in Computer Engineering from Chosun University
+🎓 **Education**: Masters in Computer Engineering 
 
 ### 🛠️ Technologies I work with:
 - **Programming Languages**: Python, Java, Scala, SQL
